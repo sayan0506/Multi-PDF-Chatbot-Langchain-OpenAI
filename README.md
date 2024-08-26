@@ -14,3 +14,7 @@ In order to execute the pipeline through streamlit app, execute:
 ```bash
 # Run the Streamlit app
 streamlit run app.py
+
+# UI
+
+[image.jpg](https://github.com/sayan0506/Multi-PDF-Chatbot-Langchain-OpenAI/blob/main/images/Screenshot%20from%202024-08-26%2011-08-14.png)
