@@ -8,3 +8,9 @@ Created a Multi-PDF chatbot, where we created a conversation chain using Langcha
 4. Conversation chain having memory
 5. OpenAI LLM model
 6. Streamlit APP
+
+In order to execute the pipeline through streamlit app, execute:
+
+```bash
+# Run the Streamlit app
+streamlit run app.py
