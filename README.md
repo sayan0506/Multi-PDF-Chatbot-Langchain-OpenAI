@@ -14,6 +14,7 @@ In order to execute the pipeline through streamlit app, execute:
 ```bash
 # Run the Streamlit app
 streamlit run app.py
+```
 
 # UI
 
